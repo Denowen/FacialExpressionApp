@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">android_project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="mailF">Close navigation drawer</string>
+
+    <string name="facialHead">Facial Expressions</string>
+    <string name="facialText1">A facial expression is one or more motions or positions of the muscles beneath the skin of the face. According to one set of controversial theories, these movements convey the emotional state of an individual to observers. Facial expressions are a form of nonverbal communication. They are a primary means of conveying social information between humans, but they also occur in most other mammals and some other animal species.</string>
+    <string name="facialText2">Just a few examples of emotions that can be expressed via facial expressions include:</string>
+    <string name="facialText3">Happiness</string>
+    <string name="facialText4">Sadness</string>
+    <string name="facialText5">Anger</string>
+    <string name="facialText6">Surprise</string>
+    <string name="facialText7">Disgust</string>
+    <string name="facialText8">Fear</string>
+    <string name="facialText9">Confusion</string>
+    <string name="facialText10">Excitement</string>
+    <string name="facialText11">Desire</string>
+    <string name="facialText12">Contempt</string>
+    <string name="facialButton">Home</string>
+
+    <string name="login1Welcome">Welcome</string>
+    <string name="login1Text">Get Started</string>
+    <string name="login1Text2">Change Language</string>
+
+
+    <string name="login2Hint1">Email</string>
+    <string name="login2Hint2">Password</string>
+    <string name="login2Button1">LOG IN</string>
+    <string name="login2Button2">REGISTER</string>
+
+    <string name="mainQues">Which facial expression does this photo belong to ?</string>
+    <string name="mainTitle">GDS!      Facial Expression Game</string>
+
+    <string name="registerTitle">Register</string>
+    <string name="registerHint1">Name</string>
+    <string name="registerHint2">Surname</string>
+    <string name="registerHint3">Email</string>
+    <string name="registerHint4">Password</string>
+    <string name="registerButton">REGISTER</string>
+
+    <string name="score">SCORE</string>
+    <string name="scoreButton">DONE</string>
+
+    <string name="layout1">GAME</string>
+    <string name="layout2">Facial Expression</string>
+    <string name="layout3">Logout</string>
+
+</resources>

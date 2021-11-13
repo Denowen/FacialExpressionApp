@@ -1,0 +1,48 @@
+
+<resources>
+    <string name="app_name">android_project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="mailF">Close navigation drawer</string>
+
+    <string name="facialHead">Yüz ifadeleri</string>
+    <string name="facialText1">Yüz ifadesi, yüz derisinin altındaki kasların bir veya daha fazla hareketi veya pozisyonudur. Bir dizi tartışmalı teoriye göre, bu hareketler bir bireyin duygusal durumunu gözlemcilere iletir. Yüz ifadeleri bir sözsüz iletişim şeklidir. İnsanlar arasında sosyal bilgi aktarmanın birincil yoludur, ancak diğer memelilerin çoğunda ve diğer bazı hayvan türlerinde de bulunurlar.</string>
+    <string name="facialText2">Yüz ifadeleri ile ifade edilebilecek birkaç duygu örneği şunları içerir:</string>
+    <string name="facialText3">Mutluluk</string>
+    <string name="facialText4">Üzüntü</string>
+    <string name="facialText5">Öfke</string>
+    <string name="facialText6">Sürpriz</string>
+    <string name="facialText7">iğrenme</string>
+    <string name="facialText8">Korku</string>
+    <string name="facialText9">Şaşkın</string>
+    <string name="facialText10">Heyecan</string>
+    <string name="facialText11">Arzu etmek</string>
+    <string name="facialText12">Hor görmek</string>
+    <string name="facialButton">Ana sayfa</string>
+
+    <string name="login1Welcome">Hoşgeldiniz</string>
+    <string name="login1Text">Başlayın</string>
+    <string name="login1Text2">Dili değiştirin</string>
+
+    <string name="login2Hint1">E-posta</string>
+    <string name="login2Hint2">Şifre</string>
+    <string name="login2Button1">Giriş Yap</string>
+    <string name="login2Button2">Kayıt Ol</string>
+
+    <string name="mainQues">Bu fotoğraf hangi yüz ifadesine ait?</string>
+    <string name="mainTitle">GDS!      Yüz İfadeleri Oyunu</string>
+
+    <string name="registerTitle">Kayıt Ol</string>
+    <string name="registerHint1">İsim</string>
+    <string name="registerHint2">Soyisim</string>
+    <string name="registerHint3">E-posta</string>
+    <string name="registerHint4">Şifre</string>
+    <string name="registerButton">Kayıt Ol</string>
+
+    <string name="score">SKOR</string>
+    <string name="scoreButton">Geri Dön</string>
+
+    <string name="layout1">OYUN</string>
+    <string name="layout2">Yüz ifadeleri</string>
+    <string name="layout3">Çıkış yap</string>
+</resources>
